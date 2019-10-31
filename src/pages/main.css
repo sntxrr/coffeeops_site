@@ -1,0 +1,71 @@
+body {
+  background: #ceb9a4;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, th {
+  font-family: serif;
+}
+
+body > * > * > header {
+  display: block;
+  padding: 1rem;
+  background: #7c6752;
+}
+
+body > * > * > header a {
+  text-decoration: none;
+}
+
+body > * > * > header span#orgname {
+  font-family: lust-script, sans-serif;
+  font-size: 50px;
+  color: #4e211a;
+  text-shadow: 1px 1px 1px rgba(159,131,115, 1);
+}
+
+
+body > * > * > content {
+  display: block;
+  padding: 1rem;
+}
+
+body > * > * > footer {
+  display: block;
+  padding: 1rem;
+  background: #7c6752;
+}
+
+body > * > * > footer div#footer_hashtag {
+  text-align: right;
+  font-size: 300%;
+}
+
+table {
+  margin: 1rem;
+}
+
+table.local_meetups_table {
+  border: medium solid black;
+  border-collapse: collapse;
+  padding: 0;
+}
+
+table.local_meetups_table th, table.local_meetups_table td {
+  border: medium solid black;
+  border-collapse: collapse;
+}
+
+table.local_meetups_table th {
+  padding: 0.5rem;
+}
+
+table.local_meetups_table td {
+  padding: 0.5rem;
+}
+
+table.local_meetups_table td.local_meetups_coord_names ul {
+  list-style-type: none;
+  padding: 0 0;
+}

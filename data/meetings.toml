@@ -1,0 +1,179 @@
+[[meetings]]
+location = "Santa Clara, CA"
+details = """\
+    Meets every Wednesday morning
+    8am at Chromatic Coffee."""
+  [[meetings.links]]
+  text = "@sigje"
+  uri = "https://twitter.com/sigje"
+  [[meetings.links]]
+  text = "@w00tSpeaks"
+  uri = "https://twitter.com/w00tSpeaks"
+
+[[meetings]]
+location = "San Francisco, CA"
+details = "Planning in Progress! Let us know if you're interested!"
+  [[meetings.links]]
+  text = "nreisb"
+  uri = "https://github.com/nreisb"
+
+[[meetings]]
+location = "Seattle, Washington"
+details = "Bi-weekly on Friday."
+  [[meetings.links]]
+  text = "@dougireton"
+  uri = "https://twitter.com/dougireton"
+  [[meetings.links]]
+  text = "Our meetup"
+  uri = "http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/"
+
+[[meetings]]
+location = "Eastside, Washington"
+details = "Bi-weekly on Friday."
+  [[meetings.links]]
+  text = "@johnharris85"
+  uri = "https://twitter.com/johnharris85"
+  [[meetings.links]]
+  text = "Our meetup"
+  uri = "http://www.meetup.com/Eastside-CoffeeOps/"
+
+[[meetings]]
+location = "Portland, Oregon"
+details = """\
+    Bi-weekly on Fridays from 8:00 AM to 9:15 AM at Puppet. \
+    Check @PDXCoffeeOps for details."""
+  [[meetings.links]]
+  text = "@thelucywyman"
+  uri = "https://twitter.com/thelucywyman"
+  [[meetings.links]]
+  text = "Our location"
+  uri = "https://goo.gl/maps/fMuoBnw6hGUUoqab6"
+  [[meetings.links]]
+  text = "Our Twitter"
+  uri = "https://goo.gl/maps/fMuoBnw6hGUUoqab6"
+
+[[meetings]]
+location = "Sydney, Australia"
+details = "Tuesday 7am (First Tues of the Month) in 7am @ Table 60"
+  [[meetings.links]]
+  text = "@drewkhoury"
+  uri = "https://twitter.com/drewkhoury"
+  [[meetings.links]]
+  text = "@bryceflux"
+  uri = "https://twitter.com/bryceflux"
+  [[meetings.links]]
+  text = "Our location"
+  uri = "https://goo.gl/RinIFT"
+  [[meetings.links]]
+  text = "Our calendar"
+  uri = "http://goo.gl/CNo9eB"
+
+[[meetings]]
+location = "Alpharetta, Georgia"
+details = "Meetup"
+  [[meetings.links]]
+  text = "@tmhall99"
+  uri = "https://twiiter.com/tmhall99"
+  [[meetings.links]]
+  text = "Our meetup"
+  uri = "http://www.meetup.com/Alpharetta-CoffeeOps/"
+
+[[meetings]]
+location = "Boulder, Colorado"
+details = "We meet up."
+  [[meetings.links]]
+  text = "@guildner"
+  uri = "https://twitter.com/guildner"
+  [[meetings.links]]
+  text = "html calendar"
+  uri = "https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&ctz=America/Denver"
+  [[meetings.links]]
+  text = "ical calendar"
+  uri = "https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics"
+
+[[meetings]]
+location = "Denver, Colorado"
+details = """\
+    Every Thursday between 8 and 10 am at Monk and Mongoose
+    at 5370 Greenwood Plaza Blvd Suite #109 Greenwood Village,
+    CO 80111 near the Denver Tech Center. More details at our meetup page."""
+  [[meetings.links]]
+  text = "@curiousbiped"
+  uri = "https://twitter.com/curiousbiped"
+  [[meetings.links]]
+  text = "Our meetup"
+  uri = " https://www.meetup.com/Denver-CoffeeOps/"
+
+[[meetings]]
+location = "Wellington, New Zealand"
+details = "Ad-hoc but approx. once a month; arranged via the DevOpsNZ Slack"
+  [[meetings.links]]
+  text = "@mexisme"
+  uri = "https://twitter.com/mexisme"
+  [[meetings.links]]
+  text = "DevOpsNZ Slack"
+  uri = "https://devopsnz.slack.com/"
+
+[[meetings]]
+location = "Newmarket - Auckland, New Zealand"
+details = "11am on the First Thursday of every Month at Cali Newmarket"
+  [[meetings.links]]
+  text = "@DevTroy"
+  uri = "https://twitter.com/DevTroy"
+  [[meetings.links]]
+  text = "@4lexNZ"
+  uri = "https://twitter.com/4lexNZ"
+  [[meetings.links]]
+  text = "Our location"
+  uri = "http://www.cali.nz/"
+
+[[meetings]]
+location = "Key West, Florida"
+details = "https://www.meetup.com/SouthernmostTech"
+  [[meetings.links]]
+  text = "@cayohuesoval"
+  uri = "https://twitter.com/cayohuesoval"
+  [[meetings.links]]
+  text = "@jqr"
+  uri = "https://twitter.com/jqr"
+  [[meetings.links]]
+  text = "Our meetup"
+  uri = "https://www.meetup.com/SouthernmostTech"
+
+[[meetings]]
+location = "Chicago, IL"
+details = """\
+    First Thursday of the month from 8am-10am at Dollop Coffee
+    on Monroe (55 W Monroe St). More details at our meetup page."""
+  [[meetings.links]]
+  text = "@parabuzzle"
+  uri = "https://twtiter.com/parabuzzle"
+  [[meetings.links]]
+  text = "Our meetup"
+  uri = "https://www.meetup.com/CoffeeOps-Chicago/"
+
+[[meetings]]
+location = "New York, NY (Manhattan)"
+details = """\
+    Every Thursday morning at 8:30am-10:00am at Le Pain Quotidian
+    at 931 Broadway between 22nd and 23rd. More details at our meetup
+    page."""
+  [[meetings.links]]
+  text = "Email us!"
+  uri = "mailto:nyc@coffeeops.org"
+  [[meetings.links]]
+  text = "Our meetup"
+  uri = "https://www.meetup.com/NYC-CoffeeOps/."
+
+[[meetings]]
+location = "London, UK"
+details = """\
+    First Tuesday of the Month at The Fence located at 67-69,
+    Cowcross St next to Farringdon train station. More details
+    at out meetup page."""
+  [[meetings.links]]
+  text = "Abby Bangser"
+  uri = "https://twitter.com/a_bangser"
+  [[meetings.links]]
+  text = "Our meetup"
+  uri = "https://www.meetup.com/CoffeeOps-London/."
