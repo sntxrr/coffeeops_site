@@ -53,45 +53,6 @@ details = """\
   uri = "https://goo.gl/maps/fMuoBnw6hGUUoqab6"
 
 [[meetings]]
-location = "Sydney, Australia"
-details = "Tuesday 7am (First Tues of the Month) in 7am @ Table 60"
-  [[meetings.links]]
-  text = "@drewkhoury"
-  uri = "https://twitter.com/drewkhoury"
-  [[meetings.links]]
-  text = "@bryceflux"
-  uri = "https://twitter.com/bryceflux"
-  [[meetings.links]]
-  text = "Our location"
-  uri = "https://goo.gl/RinIFT"
-  [[meetings.links]]
-  text = "Our calendar"
-  uri = "http://goo.gl/CNo9eB"
-
-[[meetings]]
-location = "Alpharetta, Georgia"
-details = "Meetup"
-  [[meetings.links]]
-  text = "@tmhall99"
-  uri = "https://twiiter.com/tmhall99"
-  [[meetings.links]]
-  text = "Our meetup"
-  uri = "http://www.meetup.com/Alpharetta-CoffeeOps/"
-
-[[meetings]]
-location = "Boulder, Colorado"
-details = "We meet up."
-  [[meetings.links]]
-  text = "@guildner"
-  uri = "https://twitter.com/guildner"
-  [[meetings.links]]
-  text = "html calendar"
-  uri = "https://www.google.com/calendar/embed?src=m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com&ctz=America/Denver"
-  [[meetings.links]]
-  text = "ical calendar"
-  uri = "https://www.google.com/calendar/ical/m2n8ubnat9sbluu52majc7ahcs%40group.calendar.google.com/public/basic.ics"
-
-[[meetings]]
 location = "Denver, Colorado"
 details = """\
     Every Thursday between 8 and 10 am at Monk and Mongoose
@@ -103,29 +64,6 @@ details = """\
   [[meetings.links]]
   text = "Our meetup"
   uri = " https://www.meetup.com/Denver-CoffeeOps/"
-
-[[meetings]]
-location = "Wellington, New Zealand"
-details = "Ad-hoc but approx. once a month; arranged via the DevOpsNZ Slack"
-  [[meetings.links]]
-  text = "@mexisme"
-  uri = "https://twitter.com/mexisme"
-  [[meetings.links]]
-  text = "DevOpsNZ Slack"
-  uri = "https://devopsnz.slack.com/"
-
-[[meetings]]
-location = "Newmarket - Auckland, New Zealand"
-details = "11am on the First Thursday of every Month at Cali Newmarket"
-  [[meetings.links]]
-  text = "@DevTroy"
-  uri = "https://twitter.com/DevTroy"
-  [[meetings.links]]
-  text = "@4lexNZ"
-  uri = "https://twitter.com/4lexNZ"
-  [[meetings.links]]
-  text = "Our location"
-  uri = "http://www.cali.nz/"
 
 [[meetings]]
 location = "Key West, Florida"
