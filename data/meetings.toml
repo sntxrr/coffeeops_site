@@ -22,10 +22,13 @@ location = "Seattle, Washington"
 details = "Bi-weekly on Friday."
   [[meetings.links]]
   text = "@dougireton"
-  uri = "https://twitter.com/dougireton"
+  uri = "https://twitter.com/sntxrr"
   [[meetings.links]]
   text = "Our meetup"
-  uri = "http://www.meetup.com/Downtown-Seattle-Friday-Morning-CoffeeOps/"
+  uri = "https://www.meetup.com/Seattle-CoffeeOps/"
+  [[meetings.links]]
+  text = "Our Twitter"
+  uri = "https://twitter.com/seacoffeeops"
 
 [[meetings]]
 location = "Eastside, Washington"
@@ -50,7 +53,7 @@ details = """\
   uri = "https://goo.gl/maps/fMuoBnw6hGUUoqab6"
   [[meetings.links]]
   text = "Our Twitter"
-  uri = "https://goo.gl/maps/fMuoBnw6hGUUoqab6"
+  uri = "https://twitter.com/PDXCoffeeOps"
 
 [[meetings]]
 location = "Denver, Colorado"
